@@ -1,7 +1,7 @@
 import React from "react";
 export default function() {
   return (
-    <section className="max-w-4xl mx-auto px-4 flex-1  py-16 text-gray-800">
+    <section className="max-w-4xl mx-auto px-4 flex-1 items-center justify-center py-16 text-gray-800">
       <h1 className="text-3xl md:text-4xl font-bold text-[#D7263D] mb-6 text-center">
         Privacy Policy
       </h1>
