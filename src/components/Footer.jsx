@@ -19,7 +19,7 @@ export default function(){
             <li><Link to="/" className="hover:underline">Home</Link></li>
             <li><Link to="/information" className="hover:underline">Information</Link></li>
             <li><Link to="/products" className="hover:underline">Products</Link></li>
-            <li><Link to="/privacy" className="hover:underline">Privacy Policy</Link></li>
+            <li><Link to="/privacy" className="hover:underline">Privacy</Link></li>
           </ul>
         </div>
 

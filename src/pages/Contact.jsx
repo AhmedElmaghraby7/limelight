@@ -34,7 +34,7 @@ export default function(){
             initial={{ opacity: 0, y: 30 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.5 }}
-            className="max-w-2xl mx-auto px-4 py-8 text-white"
+            className="max-w-2xl mx-auto px-4 py-8 text-white flex-1 flex flex-col"
         >
             <Toaster />
             <h2 className="text-3xl font-bold mb-4 text-center">Contact Us</h2>
