@@ -48,7 +48,7 @@ const products = [
 
 export default function () {
     return (
-        <section className="bg-white px-4 py-16 max-w-7xl mx-auto">
+        <section className="bg-white px-4 flex-1 py-16 max-w-7xl mx-auto">
             <h1 className="text-3xl md:text-4xl font-bold text-[#D7263D] mb-10 text-center">
                 Explore Our Solar-Powered Spaces
             </h1>

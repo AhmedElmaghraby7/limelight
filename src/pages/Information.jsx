@@ -2,7 +2,7 @@ import React from "react";
 
 export default function(){
   return (
-    <section className="bg-white text-[#111] px-4 py-16 max-w-5xl mx-auto">
+    <section className="bg-white text-[#111] flex-1  px-4 py-16 max-w-5xl mx-auto">
       <h1 className="text-3xl md:text-4xl font-bold text-[#D7263D] mb-6 text-center">
         Why Choose Limelight?
       </h1>

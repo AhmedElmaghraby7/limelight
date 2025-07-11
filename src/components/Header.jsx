@@ -52,7 +52,7 @@ import {FaBars , FaTimes} from "react-icons/fa";
                     <NavLink to="/" onClick={() => setMenuOpen(false)} className={navItemStyleM}>Home</NavLink>
                     <NavLink to="/information" onClick={() => setMenuOpen(false)} className={navItemStyleM}>Information</NavLink>
                     <NavLink to="/products" onClick={() => setMenuOpen(false)} className={navItemStyleM}>Products</NavLink>
-                    <NavLink to="/privacy-policy" onClick={() => setMenuOpen(false)} className={navItemStyleM}>Privacy</NavLink>
+                    <NavLink to="/privacy" onClick={() => setMenuOpen(false)} className={navItemStyleM}>Privacy</NavLink>
                 </div>
             )}
         </header>
