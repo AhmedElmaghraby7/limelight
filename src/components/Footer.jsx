@@ -13,7 +13,7 @@ export default function(){
         </div>
 
         {/* Links */}
-        <div className="my-5">
+        <div className="my-5 md:my-0 mx-auto">
           <h3 className="text-xl font-semibold mb-2">Quick Links</h3>
           <ul className="space-y-1">
             <li><Link to="/" className="hover:underline">Home</Link></li>
